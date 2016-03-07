@@ -1,5 +1,5 @@
 ::selection {
-    color: yellow;
+    color: #EB8C00;
 }
 
 body {
@@ -54,4 +54,20 @@ body {
     list-style-type: none;
     font-family: MyriadProRegular;
     font-size: 24px;
+}
+
+input[type=text], select {
+    width: 245px;
+    height: 35px;
+    padding: 12px 20px;
+    margin: 0px auto;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    box-sizing: border-box;
+    
+}
+
+div .etikete1 {
+    
 }
