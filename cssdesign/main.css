@@ -1,0 +1,57 @@
+::selection {
+    color: yellow;
+}
+
+body {
+    background-image: url("/imgdesign/background.png");
+    width: 1920px;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+.container {
+    width: 1170px;
+    margin: 0px auto;
+}
+
+.header {
+    background: #336e7b;
+    width: 1115px;
+    height: 50px;
+    margin: 0px auto;
+    margin-top: 20px;
+    
+}
+
+.header a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: MyriadProRegular;
+    font-size: 24px;
+    font-weight: normal;
+        
+}
+
+.header li {
+    list-style-type: none;
+    display: inline;
+    padding: 30px;
+    line-height: 50px;
+}
+
+.login {
+    background: #336e7b;
+    width: 270px;
+    height: 160px;
+    margin: 0px auto;
+    margin-left: 13px;
+    margin-top: 8px;
+}
+
+.login p {
+    color: #ffffff;
+    text-align: center;
+    list-style-type: none;
+    font-family: MyriadProRegular;
+    font-size: 24px;
+}
